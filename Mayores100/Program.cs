@@ -43,7 +43,7 @@ namespace Mayores100
         {
             MAyores100 m = new MAyores100();
             m.Cargar();
-            m.Imprimir();
+            m.Imprimir(); 
         }
     }
 }
